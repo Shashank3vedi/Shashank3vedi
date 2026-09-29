@@ -11,7 +11,7 @@
 
 I'm a Cyber Security undergrad (BTech CSE) focused on **offensive security** — breaking web applications and networks the way an attacker would, then writing it up so it can be fixed. I care about the full path from recon to a clear, actionable report.
 
-- Building **[VYASA](https://github.com/Shashank3vedi/VYASA)** — a modular, AI-assisted penetration-testing platform (recon → assessment → reporting).
+- Building **VYASA** *(in private development)* — a modular, AI-assisted penetration-testing platform (recon → assessment → reporting).
 - Hands-on **VAPT** experience on real e-commerce and fintech web apps (authorized engagements).
 - Deep in the labs: PortSwigger Web Security Academy, TryHackMe, and a self-built Active Directory attack lab.
 - I also break things *to teach* — **"Break It To Learn It,"** where I turn DVWA / PortSwigger labs into walkthroughs.
@@ -52,7 +52,9 @@ I'm a Cyber Security undergrad (BTech CSE) focused on **offensive security** —
 
 > **V**ulnerability **Y**ield, **A**nalysis, **S**canning &amp; **A**utomation
 
-A three-tier offensive-security product: a browser extension for recon &amp; vulnerability assessment, an agentic plugin for safe scoped testing, and a full Docker platform for the complete engagement — every finding mapped to OWASP, MITRE ATT&amp;CK, and CVE/CVSS. → **[github.com/Shashank3vedi/VYASA](https://github.com/Shashank3vedi/VYASA)**
+A three-tier offensive-security product: a browser extension for recon &amp; vulnerability assessment, an agentic plugin for safe scoped testing, and a full Docker platform for the complete engagement — every finding mapped to OWASP, MITRE ATT&amp;CK, and CVE/CVSS.
+>
+> **Status:** in private development — the repository opens up as it nears release.
 
 ---
 
